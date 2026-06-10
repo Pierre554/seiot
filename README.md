@@ -1,3 +1,3 @@
 # seiot
 
-lucas, Miguel rodrigues, pierre
+lucas, Miguel rodrigues
