@@ -1,3 +1,3 @@
 # seiot
 
-pierre, Pedro Paz
+Lucas moura, Miguel rodrigues
